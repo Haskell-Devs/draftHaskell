@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdrafth_haskell=self.webpackChunkdrafth_haskell||[]).push([[633],{2511:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"facebook","count":1,"permalink":"/blog/tags/facebook"}')}}]);
