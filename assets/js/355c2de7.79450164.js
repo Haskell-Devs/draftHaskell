@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdrafth_haskell=self.webpackChunkdrafth_haskell||[]).push([[255],{5745:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-pages","id":"default"}}')}}]);
